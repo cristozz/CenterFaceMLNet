@@ -4,8 +4,8 @@
     {
         public struct ImageSettings
         {
-            public const int imageHeight = 480;
-            public const int imageWidth = 640;
+            public const int imageHeight = 32;//480;
+            public const int imageWidth = 32;//640;
         }
         public struct ModelFields
         {
