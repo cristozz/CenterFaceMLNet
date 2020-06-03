@@ -1,5 +1,6 @@
 ﻿namespace CenterFaceMLNet
 {
+    using System.Buffers;
     internal class CenterFaceSettings
     {
         public struct ImageSettings
